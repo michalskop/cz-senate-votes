@@ -1,0 +1,82 @@
+mp_id,name,constituency_id,party,since,until,photo,link,group,constituency
+356,Věra Procházková,1,ANO,2022-10-01,2028-10-01,/images/senatori/prochazkovav_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=356,ANO a SOCDEM,Karlovy Vary
+314,Miroslav Balatka,2,STAN,2018-10-13,2024-10-13,/images/senatori/balatkam_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=314,Starostové a nezávislí,Sokolov
+336,Miroslav Plevný,3,STAN,2020-10-10,2026-10-10,/images/senatori/plevnym_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=336,Starostové a nezávislí,Cheb
+357,Jan Paparega,4,ProMOST,2022-10-01,2028-10-01,/images/senatori/paparegaj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=357,Občanské demokratické strany a TOP 09,Most
+315,Přemysl Rabas,5,SEN 21,2018-10-13,2024-10-13,/images/senatori/rabasp_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=315,SEN 21 a Piráti,Chomutov
+337,Ivo Trešl,6,STAN,2020-10-10,2026-10-10,/images/senatori/tresli_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=337,Starostové a nezávislí,Louny
+358,Daniela Kovářová,7,NK,2022-10-01,2028-10-01,/images/senatori/kovarovad_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=358,Nezařazení,Plzeň-město
+316,Pavel Karpíšek,8,ODS,2018-10-13,2024-10-13,/images/senatori/karpisekp_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=316,Občanské demokratické strany a TOP 09,Rokycany
+275,Lumír Aschenbrenner,9,ODSTOPKDUADSMon,2020-10-10,2026-10-10,/images/senatori/aschenbrennerl_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=275,Občanské demokratické strany a TOP 09,Plzeň-město
+171,Tomáš Jirsa,10,ODS,2022-10-01,2028-10-01,/images/senatori/jirsat_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=171,Občanské demokratické strany a TOP 09,Český Krumlov
+317,Vladislav Vilímec,11,ODS,2018-10-13,2024-10-13,/images/senatori/vilimecv_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=317,Občanské demokratické strany a TOP 09,Domažlice
+339,Tomáš Fiala,12,ODS,2020-10-10,2026-10-10,/images/senatori/fialat_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=339,Občanské demokratické strany a TOP 09,Strakonice
+359,Marek Slabý,13,KDUODST2020TOP,2022-10-01,2028-10-01,/images/senatori/slabym_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=359,Občanské demokratické strany a TOP 09,Tábor
+318,Ladislav Faktor,14,NK,2018-10-13,2024-10-13,/images/senatori/faktorl_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=318,Občanské demokratické strany a TOP 09,České Budějovice
+340,Jaroslav Chalupský,15,Svobodní,2020-10-10,2026-10-10,/images/senatori/chalupskyj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=340,Občanské demokratické strany a TOP 09,Pelhřimov
+172,Jiří Oberfalzer,16,KDU+ODS+TOP 09,2022-10-01,2028-10-01,/images/senatori/oberfalzerj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=172,Občanské demokratické strany a TOP 09,Beroun
+319,Pavel Fischer,17,NK,2018-10-13,2024-10-13,/images/senatori/fischerp_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=319,Nezařazení,Praha 12
+341,Petr Štěpánek,18,STAN,2020-10-10,2026-10-10,/images/senatori/stepanekp_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=341,Starostové a nezávislí,Příbram
+362,Hana Kordová Marvanová,19,KDU+ODS+TOP 09,2022-10-01,2028-10-01,/images/senatori/marvanovah_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=362,Občanské demokratické strany a TOP 09,Praha 11
+313,Jiří Drahoš,20,KDU+Z+STAN+TOP,2018-10-06,2024-10-06,/images/senatori/drahosj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=06.01.2019&lng=cz&par_3=313,Starostové a nezávislí,Praha 4
+278,Václav Láska,21,SEN 21,2020-10-10,2026-10-10,/images/senatori/laskav_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=278,SEN 21 a Piráti,Praha 5
+361,Jan Pirk,22,KDU+ODS+TOP 09,2022-10-01,2028-10-01,/images/senatori/pirkj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=361,Občanské demokratické strany a TOP 09,Praha 10
+320,Lukáš Wagenknecht,23,Piráti,2018-10-13,2024-10-13,/images/senatori/wagenknechtl_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=320,SEN 21 a Piráti,Praha 8
+334,David Smoljak,24,STAN+Piráti+TOP,2020-10-10,2026-10-10,/images/senatori/smoljakd_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=334,Starostové a nezávislí,Praha 9
+298,Jiří Růžička,25,KDU+ODS+STA+TOP,2022-09-24,2028-09-24,/images/senatori/ruzickaj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=24.12.2022&lng=cz&par_3=298,Občanské demokratické strany a TOP 09,Praha 6
+321,Marek Hilšer,26,MHS,2018-10-13,2024-10-13,/images/senatori/hilserm_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=321,Starostové a nezávislí,Praha 2
+342,Miroslava Němcová,27,ODS+STAN+TOP 09,2020-10-10,2026-10-10,/images/senatori/nemcovam_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=342,Občanské demokratické strany a TOP 09,Praha 1
+363,Jarmila Smotlachová,28,ODS,2022-10-01,2028-10-01,/images/senatori/smotlachovaj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=363,Občanské demokratické strany a TOP 09,Mělník
+322,Ladislav Chlupáč,29,ODS,2018-10-13,2024-10-13,/images/senatori/chlupacl_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=322,Občanské demokratické strany a TOP 09,Litoměřice
+343,Adéla Šípová,30,Piráti,2020-10-10,2026-10-10,/images/senatori/sipovaa_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=343,SEN 21 a Piráti,Kladno
+364,Martin Krsek,31,SEN 21,2022-10-01,2028-10-01,/images/senatori/krsekm_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=364,SEN 21 a Piráti,Ústí nad Labem
+335,Hynek Hanza,32,ODS,2020-06-13,2024-10-13,/images/senatori/hanzah_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.09.2020&lng=cz&par_3=335,Občanské demokratické strany a TOP 09,Teplice
+281,Zbyněk Linhart,33,STAN+SLK,2020-10-03,2026-10-03,/images/senatori/linhartz_295.jpg,https://senat.cz/senatori/index.php?ke_dni=03.01.2021&lng=cz&par_3=281,Starostové a nezávislí,Děčín
+300,Michael Canov,34,SLK,2022-10-01,2028-10-01,/images/senatori/canovm_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=300,Starostové a nezávislí,Liberec
+268,Jaroslav Zeman,35,ODS,2018-10-13,2024-10-13,/images/senatori/zemanj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=268,Občanské demokratické strany a TOP 09,Jablonec nad Nisou
+282,Jiří Vosecký,36,STAN+SLK,2020-10-10,2026-10-10,/images/senatori/voseckyj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=282,Starostové a nezávislí,Česká Lípa
+301,Tomáš Czernin,37,KDU+ODS+TOP 09,2022-10-01,2028-10-01,/images/senatori/czernint_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=301,Občanské demokratické strany a TOP 09,Jičín
+323,Raduan Nwelati,38,ODS,2018-10-13,2024-10-13,/images/senatori/nwelatir_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=323,Občanské demokratické strany a TOP 09,Mladá Boleslav
+311,Jan Sobotka,39,STAN,2020-10-10,2026-10-10,/images/senatori/sobotkaj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=311,Starostové a nezávislí,Trutnov
+365,Bohuslav Procházka,40,KDU-ČSL,2022-10-01,2028-10-01,/images/senatori/prochazkab_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=365,KDU-ČSL a nezávislí,Kutná Hora
+324,Zdeněk Hraba,41,STAN,2018-10-13,2024-10-13,/images/senatori/hrabaz_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=324,Občanské demokratické strany a TOP 09,Benešov
+344,Pavel Kárník,42,STAN,2020-10-10,2026-10-10,/images/senatori/karnikp_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=344,Starostové a nezávislí,Kolín
+240,Miluše Horská,43,KDU-ČSL+Nestran,2022-10-01,2028-10-01,/images/senatori/horskam_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=240,KDU-ČSL a nezávislí,Pardubice
+325,Jan Tecl,44,ODS+STAN+STO,2018-10-13,2024-10-13,/images/senatori/teclj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=325,Občanské demokratické strany a TOP 09,Chrudim
+345,Jan Holásek,45,HDK+TOP+SE+Z+LE,2020-10-10,2026-10-10,/images/senatori/holasekj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=345,SEN 21 a Piráti,Hradec Králové
+355,Petr Fiala,46,KDU-ČSL+SproK,2022-09-24,2028-09-24,/images/senatori/fialap_295.jpg,https://senat.cz/senatori/index.php?ke_dni=24.12.2022&lng=cz&par_3=355,KDU-ČSL a nezávislí,Ústí nad Orlicí
+326,Martin Červíček,47,ODS,2018-10-13,2024-10-13,/images/senatori/cervicekm_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=326,Občanské demokratické strany a TOP 09,Náchod
+346,Jan Grulich,48,TOP 09+LES,2020-10-10,2026-10-10,/images/senatori/grulichj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=346,Občanské demokratické strany a TOP 09,Rychnov nad Kněžnou
+302,Jaromíra Vítková,49,KDU+ODS+TOP 09,2022-10-01,2028-10-01,/images/senatori/vitkovaj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=302,KDU-ČSL a nezávislí,Blansko
+327,Michal Kortyš,50,ODS,2018-10-13,2024-10-13,/images/senatori/kortysm_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=327,Občanské demokratické strany a TOP 09,Svitavy
+347,Josef Klement,51,KDU-ČSL,2020-10-10,2026-10-10,/images/senatori/klementj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=347,KDU-ČSL a nezávislí,Žďár nad Sázavou
+243,Miloš Vystrčil,52,KDU+ODS+TOP 09,2022-10-01,2028-10-01,/images/senatori/vystrcilm_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=243,Občanské demokratické strany a TOP 09,Jihlava
+328,Hana Žáková,53,STAN,2018-10-13,2024-10-13,/images/senatori/zakovah_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=328,Starostové a nezávislí,Třebíč
+348,Tomáš Třetina,54,ODS+STAN+TOP 09,2020-10-10,2026-10-10,/images/senatori/tretinat_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=348,Občanské demokratické strany a TOP 09,Znojmo
+194,Tomáš Töpfer,55,KDU+ODS+TOP 09,2022-10-01,2028-10-01,/images/senatori/topfert_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=194,Občanské demokratické strany a TOP 09,Brno-město
+329,Rostislav Koštial,56,ODS,2018-10-13,2024-10-13,/images/senatori/kostialr_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=329,Občanské demokratické strany a TOP 09,Břeclav
+349,Karel Zitterbart,57,STAN,2020-10-10,2026-10-10,/images/senatori/zitterbartk_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=349,Starostové a nezávislí,Vyškov
+303,Jiří Dušek,58,ČSSDODSVasFaktB,2022-10-01,2028-10-01,/images/senatori/dusekj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=303,Občanské demokratické strany a TOP 09,Brno-město
+330,Mikuláš Bek,59,ZelODSSTANTOP09,2018-10-13,2024-10-13,/images/senatori/bekm_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=330,Starostové a nezávislí,Brno-město
+350,Roman Kraus,60,ODS+TOP 09,2020-10-10,2026-10-10,/images/senatori/krausr_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=350,Občanské demokratické strany a TOP 09,Brno-město
+304,Lumír Kantor,61,KDU+ODS+TOP 09,2022-10-01,2028-10-01,/images/senatori/kantorl_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=304,KDU-ČSL a nezávislí,Olomouc
+331,Jitka Chalánková,62,NK,2018-10-13,2024-10-13,/images/senatori/chalankovaj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=331,Občanské demokratické strany a TOP 09,Prostějov
+63,Jitka Seitlová,63,KDU-ČSL,2020-10-10,2026-10-10,/images/senatori/seitlovaj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=63,KDU-ČSL a nezávislí,Přerov
+305,Ladislav Václavec,64,ANO,2022-09-24,2028-09-24,/images/senatori/vaclavecl_295.jpg,https://senat.cz/senatori/index.php?ke_dni=24.12.2022&lng=cz&par_3=305,ANO a SOCDEM,Bruntál
+332,Miroslav Adámek,65,ANO,2018-10-13,2024-10-13,/images/senatori/adamekm_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=332,ANO a SOCDEM,Šumperk
+351,Marek Ošťádal,66,STAN,2020-10-10,2026-10-10,/images/senatori/ostadalm_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=351,Starostové a nezávislí,Olomouc
+366,Ivana Váňová,67,KDU+ODS+TOP 09,2022-10-01,2028-10-01,/images/senatori/vanovai_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=366,KDU-ČSL a nezávislí,Nový Jičín
+333,Herbert Pavera,68,ODS+STAN+TOP 09,2018-10-13,2024-10-13,/images/senatori/paverah_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=333,Občanské demokratické strany a TOP 09,Opava
+352,Helena Pešatová,69,STAN,2020-10-10,2026-10-10,/images/senatori/pesatovah_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=352,Starostové a nezávislí,Frýdek-Místek
+307,Zdeněk Nytra,70,KDU+ODS+TOP 09,2022-10-01,2028-10-01,/images/senatori/nytraz_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=307,Občanské demokratické strany a TOP 09,Ostrava-město
+270,Leopold Sulovský,71,Ostravak,2018-10-13,2024-10-13,/images/senatori/sulovskyl_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=270,Starostové a nezávislí,Ostrava-město
+353,Ondřej Šimetka,72,ODS,2020-10-10,2026-10-10,/images/senatori/simetkao_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=353,Občanské demokratické strany a TOP 09,Ostrava-město
+367,Zdeněk Matušek,73,ČSSD+ANO,2022-10-01,2028-10-01,/images/senatori/matusekz_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=367,ANO a SOCDEM,Frýdek-Místek
+206,Petr Vícha,74,ČSSD,2018-10-13,2024-10-13,/images/senatori/vichap_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=206,ANO a SOCDEM,Karviná
+134,Ondřej Feber,75,ANO,2020-10-10,2026-10-10,/images/senatori/febero_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=134,ANO a SOCDEM,Karviná
+368,Jana Zwyrtek Hamplová,76,NEZ,2022-10-01,2028-10-01,/images/senatori/hamplovaj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=368,Nezařazení,Kroměříž
+207,Jiří Čunek,77,KDU-ČSL,2018-10-06,2024-10-06,/images/senatori/cunekj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=06.01.2019&lng=cz&par_3=207,KDU-ČSL a nezávislí,Vsetín
+312,Tomáš Goláň,78,SEN 21,2020-10-10,2026-10-10,/images/senatori/golant_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=312,Občanské demokratické strany a TOP 09,Zlín
+369,Eva Rajchmanová,79,KDU+ODS+TOP 09,2022-10-01,2028-10-01,/images/senatori/rajchmanovae_295.jpg,https://senat.cz/senatori/index.php?ke_dni=01.01.2023&lng=cz&par_3=369,KDU-ČSL a nezávislí,Hodonín
+272,Patrik Kunčar,80,KDU-ČSL,2018-10-13,2024-10-13,/images/senatori/kuncarp_295.jpg,https://senat.cz/senatori/index.php?ke_dni=13.01.2019&lng=cz&par_3=272,KDU-ČSL a nezávislí,Zlín
+354,Josef Bazala,81,KDU-ČSL,2020-10-10,2026-10-10,/images/senatori/bazalaj_295.jpg,https://senat.cz/senatori/index.php?ke_dni=10.01.2021&lng=cz&par_3=354,KDU-ČSL a nezávislí,Uherské Hradiště

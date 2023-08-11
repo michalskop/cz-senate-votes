@@ -1,0 +1,82 @@
+voter_id,name,not_present,present,total,present_rate,not_present_rate,mp_id,party,group,photo,constituency,účast,abbreviation
+134,Ondřej Feber,12,58,70,0.8285714285714286,0.17142857142857143,134,ANO,ANO a SOCDEM,https://www.senat.cz/images/senatori/febero_295.jpg,Karviná,83,ANO a SOCDEM
+367,Zdeněk Matušek,3,16,19,0.8421052631578947,0.15789473684210525,367,ČSSD+ANO,ANO a SOCDEM,https://www.senat.cz/images/senatori/matusekz_295.jpg,Frýdek-Místek,84,ANO a SOCDEM
+206,Petr Vícha,22,90,112,0.8035714285714286,0.19642857142857142,206,ČSSD,ANO a SOCDEM,https://www.senat.cz/images/senatori/vichap_295.jpg,Karviná,80,ANO a SOCDEM
+356,Věra Procházková,2,17,19,0.8947368421052632,0.10526315789473684,356,ANO,ANO a SOCDEM,https://www.senat.cz/images/senatori/prochazkovav_295.jpg,Karlovy Vary,89,ANO a SOCDEM
+332,Miroslav Adámek,7,103,110,0.9363636363636364,0.06363636363636363,332,ANO,ANO a SOCDEM,https://www.senat.cz/images/senatori/adamekm_295.jpg,Šumperk,94,ANO a SOCDEM
+305,Ladislav Václavec,18,94,112,0.8392857142857143,0.16071428571428573,305,ANO,ANO a SOCDEM,https://www.senat.cz/images/senatori/vaclavecl_295.jpg,Bruntál,84,ANO a SOCDEM
+63,Jitka Seitlová,12,99,111,0.8918918918918919,0.10810810810810811,63,KDU-ČSL,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/seitlovaj_295.jpg,Přerov,89,KDU-ČSL
+366,Ivana Váňová,0,19,19,1.0,0.0,366,KDU+ODS+TOP 09,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/vanovai_295.jpg,Nový Jičín,100,KDU-ČSL
+365,Bohuslav Procházka,4,15,19,0.7894736842105263,0.21052631578947367,365,KDU-ČSL,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/prochazkab_295.jpg,Kutná Hora,79,KDU-ČSL
+355,Petr Fiala,1,18,19,0.9473684210526315,0.05263157894736842,355,KDU-ČSL+SproK,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/fialap_295.jpg,Ústí nad Orlicí,95,KDU-ČSL
+354,Josef Bazala,4,66,70,0.9428571428571428,0.05714285714285714,354,KDU-ČSL,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/bazalaj_295.jpg,Uherské Hradiště,94,KDU-ČSL
+347,Josef Klement,5,65,70,0.9285714285714286,0.07142857142857142,347,KDU-ČSL,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/klementj_295.jpg,Žďár nad Sázavou,93,KDU-ČSL
+304,Lumír Kantor,7,105,112,0.9375,0.0625,304,KDU+ODS+TOP 09,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/kantorl_295.jpg,Olomouc,94,KDU-ČSL
+302,Jaromíra Vítková,5,107,112,0.9553571428571429,0.044642857142857144,302,KDU+ODS+TOP 09,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/vitkovaj_295.jpg,Blansko,96,KDU-ČSL
+369,Eva Rajchmanová,1,18,19,0.9473684210526315,0.05263157894736842,369,KDU+ODS+TOP 09,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/rajchmanovae_295.jpg,Hodonín,95,KDU-ČSL
+207,Jiří Čunek,20,92,112,0.8214285714285714,0.17857142857142858,207,KDU-ČSL,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/cunekj_295.jpg,Vsetín,82,KDU-ČSL
+272,Patrik Kunčar,17,95,112,0.8482142857142857,0.15178571428571427,272,KDU-ČSL,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/kuncarp_295.jpg,Zlín,85,KDU-ČSL
+240,Miluše Horská,18,94,112,0.8392857142857143,0.16071428571428573,240,KDU-ČSL+Nestran,KDU-ČSL a nezávislí,https://www.senat.cz/images/senatori/horskam_295.jpg,Pardubice,84,KDU-ČSL
+319,Pavel Fischer,8,102,110,0.9272727272727272,0.07272727272727272,319,NK,Nezařazení,https://www.senat.cz/images/senatori/fischerp_295.jpg,Praha 12,93,Nezařazení
+358,Daniela Kovářová,0,19,19,1.0,0.0,358,NK,Nezařazení,https://www.senat.cz/images/senatori/kovarovad_295.jpg,Plzeň-město,100,Nezařazení
+368,Jana Zwyrtek Hamplová,7,12,19,0.631578947368421,0.3684210526315789,368,NEZ,Nezařazení,https://www.senat.cz/images/senatori/hamplovaj_295.jpg,Kroměříž,63,Nezařazení
+362,Hana Kordová Marvanová,1,18,19,0.9473684210526315,0.05263157894736842,362,KDU+ODS+TOP 09,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/marvanovah_295.jpg,Praha 11,95,ODS a TOP 09
+329,Rostislav Koštial,19,91,110,0.8272727272727273,0.17272727272727273,329,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/kostialr_295.jpg,Břeclav,83,ODS a TOP 09
+361,Jan Pirk,4,15,19,0.7894736842105263,0.21052631578947367,361,KDU+ODS+TOP 09,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/pirkj_295.jpg,Praha 10,79,ODS a TOP 09
+331,Jitka Chalánková,15,95,110,0.8636363636363636,0.13636363636363635,331,NK,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/chalankovaj_295.jpg,Prostějov,86,ODS a TOP 09
+359,Marek Slabý,2,17,19,0.8947368421052632,0.10526315789473684,359,KDUODST2020TOP,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/slabym_295.jpg,Tábor,89,ODS a TOP 09
+333,Herbert Pavera,14,96,110,0.8727272727272727,0.12727272727272726,333,ODS+STAN+TOP 09,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/paverah_295.jpg,Opava,87,ODS a TOP 09
+335,Hynek Hanza,11,65,76,0.8552631578947368,0.14473684210526316,335,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/hanzah_295.jpg,Teplice,86,ODS a TOP 09
+327,Michal Kortyš,29,81,110,0.7363636363636363,0.2636363636363636,327,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/kortysm_295.jpg,Svitavy,74,ODS a TOP 09
+339,Tomáš Fiala,1,69,70,0.9857142857142858,0.014285714285714285,339,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/fialat_295.jpg,Strakonice,99,ODS a TOP 09
+340,Jaroslav Chalupský,5,65,70,0.9285714285714286,0.07142857142857142,340,Svobodní,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/chalupskyj_295.jpg,Pelhřimov,93,ODS a TOP 09
+342,Miroslava Němcová,10,60,70,0.8571428571428571,0.14285714285714285,342,ODS+STAN+TOP 09,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/nemcovam_295.jpg,Praha 1,86,ODS a TOP 09
+243,Miloš Vystrčil,2,110,112,0.9821428571428571,0.017857142857142856,243,KDU+ODS+TOP 09,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/vystrcilm_295.jpg,Jihlava,98,ODS a TOP 09
+346,Jan Grulich,6,64,70,0.9142857142857143,0.08571428571428572,346,TOP 09+LES,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/grulichj_295.jpg,Rychnov nad Kněžnou,91,ODS a TOP 09
+268,Jaroslav Zeman,22,90,112,0.8035714285714286,0.19642857142857142,268,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/zemanj_295.jpg,Jablonec nad Nisou,80,ODS a TOP 09
+348,Tomáš Třetina,5,65,70,0.9285714285714286,0.07142857142857142,348,ODS+STAN+TOP 09,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/tretinat_295.jpg,Znojmo,93,ODS a TOP 09
+353,Ondřej Šimetka,18,52,70,0.7428571428571429,0.2571428571428571,353,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/simetkao_295.jpg,Ostrava-město,74,ODS a TOP 09
+357,Jan Paparega,2,17,19,0.8947368421052632,0.10526315789473684,357,ProMOST,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/paparegaj_295.jpg,Most,89,ODS a TOP 09
+350,Roman Kraus,1,69,70,0.9857142857142858,0.014285714285714285,350,ODS+TOP 09,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/krausr_295.jpg,Brno-město,99,ODS a TOP 09
+326,Martin Červíček,6,104,110,0.9454545454545454,0.05454545454545454,326,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/cervicekm_295.jpg,Náchod,95,ODS a TOP 09
+324,Zdeněk Hraba,15,95,110,0.8636363636363636,0.13636363636363635,324,STAN,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/hrabaz_295.jpg,Benešov,86,ODS a TOP 09
+298,Jiří Růžička,9,103,112,0.9196428571428571,0.08035714285714286,298,KDU+ODS+STA+TOP,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/ruzickaj_295.jpg,Praha 6,92,ODS a TOP 09
+171,Tomáš Jirsa,14,98,112,0.875,0.125,171,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/jirsat_295.jpg,Český Krumlov,88,ODS a TOP 09
+301,Tomáš Czernin,8,104,112,0.9285714285714286,0.07142857142857142,301,KDU+ODS+TOP 09,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/czernint_295.jpg,Jičín,93,ODS a TOP 09
+303,Jiří Dušek,9,103,112,0.9196428571428571,0.08035714285714286,303,ČSSDODSVasFaktB,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/dusekj_295.jpg,Brno-město,92,ODS a TOP 09
+275,Lumír Aschenbrenner,20,91,111,0.8198198198198198,0.18018018018018017,275,ODSTOPKDUADSMon,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/aschenbrennerl_295.jpg,Plzeň-město,82,ODS a TOP 09
+307,Zdeněk Nytra,6,106,112,0.9464285714285714,0.05357142857142857,307,KDU+ODS+TOP 09,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/nytraz_295.jpg,Ostrava-město,95,ODS a TOP 09
+172,Jiří Oberfalzer,16,96,112,0.8571428571428571,0.14285714285714285,172,KDU+ODS+TOP 09,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/oberfalzerj_295.jpg,Beroun,86,ODS a TOP 09
+325,Jan Tecl,2,108,110,0.9818181818181818,0.01818181818181818,325,ODS+STAN+STO,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/teclj_295.jpg,Chrudim,98,ODS a TOP 09
+194,Tomáš Töpfer,2,17,19,0.8947368421052632,0.10526315789473684,194,KDU+ODS+TOP 09,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/topfert_295.jpg,Brno-město,89,ODS a TOP 09
+312,Tomáš Goláň,14,97,111,0.8738738738738738,0.12612612612612611,312,SEN 21,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/golant_295.jpg,Zlín,87,ODS a TOP 09
+316,Pavel Karpíšek,23,87,110,0.7909090909090909,0.20909090909090908,316,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/karpisekp_295.jpg,Rokycany,79,ODS a TOP 09
+317,Vladislav Vilímec,18,92,110,0.8363636363636363,0.16363636363636364,317,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/vilimecv_295.jpg,Domažlice,84,ODS a TOP 09
+318,Ladislav Faktor,12,98,110,0.8909090909090909,0.10909090909090909,318,NK,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/faktorl_295.jpg,České Budějovice,89,ODS a TOP 09
+363,Jarmila Smotlachová,6,13,19,0.6842105263157895,0.3157894736842105,363,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/smotlachovaj_295.jpg,Mělník,68,ODS a TOP 09
+322,Ladislav Chlupáč,26,84,110,0.7636363636363637,0.23636363636363636,322,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/chlupacl_295.jpg,Litoměřice,76,ODS a TOP 09
+323,Raduan Nwelati,16,94,110,0.8545454545454545,0.14545454545454545,323,ODS,Občanské demokratické strany a TOP 09,https://www.senat.cz/images/senatori/nwelatir_295.jpg,Mladá Boleslav,85,ODS a TOP 09
+315,Přemysl Rabas,14,96,110,0.8727272727272727,0.12727272727272726,315,SEN 21,SEN 21 a Piráti,https://www.senat.cz/images/senatori/rabasp_295.jpg,Chomutov,87,SEN 21 a Piráti
+343,Adéla Šípová,9,61,70,0.8714285714285714,0.12857142857142856,343,Piráti,SEN 21 a Piráti,https://www.senat.cz/images/senatori/sipovaa_295.jpg,Kladno,87,SEN 21 a Piráti
+320,Lukáš Wagenknecht,4,106,110,0.9636363636363636,0.03636363636363636,320,Piráti,SEN 21 a Piráti,https://www.senat.cz/images/senatori/wagenknechtl_295.jpg,Praha 8,96,SEN 21 a Piráti
+345,Jan Holásek,6,64,70,0.9142857142857143,0.08571428571428572,345,HDK+TOP+SE+Z+LE,SEN 21 a Piráti,https://www.senat.cz/images/senatori/holasekj_295.jpg,Hradec Králové,91,SEN 21 a Piráti
+278,Václav Láska,10,101,111,0.9099099099099099,0.09009009009009009,278,SEN 21,SEN 21 a Piráti,https://www.senat.cz/images/senatori/laskav_295.jpg,Praha 5,91,SEN 21 a Piráti
+364,Martin Krsek,3,16,19,0.8421052631578947,0.15789473684210525,364,SEN 21,SEN 21 a Piráti,https://www.senat.cz/images/senatori/krsekm_295.jpg,Ústí nad Labem,84,SEN 21 a Piráti
+352,Helena Pešatová,9,58,67,0.8656716417910447,0.13432835820895522,352,STAN,Starostové a nezávislí,https://www.senat.cz/images/senatori/pesatovah_295.jpg,Frýdek-Místek,87,STAN
+282,Jiří Vosecký,16,95,111,0.8558558558558559,0.14414414414414414,282,STAN+SLK,Starostové a nezávislí,https://www.senat.cz/images/senatori/voseckyj_295.jpg,Česká Lípa,86,STAN
+349,Karel Zitterbart,7,60,67,0.8955223880597015,0.1044776119402985,349,STAN,Starostové a nezávislí,https://www.senat.cz/images/senatori/zitterbartk_295.jpg,Vyškov,90,STAN
+344,Pavel Kárník,6,64,70,0.9142857142857143,0.08571428571428572,344,STAN,Starostové a nezávislí,https://www.senat.cz/images/senatori/karnikp_295.jpg,Kolín,91,STAN
+341,Petr Štěpánek,3,67,70,0.9571428571428572,0.04285714285714286,341,STAN,Starostové a nezávislí,https://www.senat.cz/images/senatori/stepanekp_295.jpg,Příbram,96,STAN
+337,Ivo Trešl,10,60,70,0.8571428571428571,0.14285714285714285,337,STAN,Starostové a nezávislí,https://www.senat.cz/images/senatori/tresli_295.jpg,Louny,86,STAN
+336,Miroslav Plevný,2,68,70,0.9714285714285714,0.02857142857142857,336,STAN,Starostové a nezávislí,https://www.senat.cz/images/senatori/plevnym_295.jpg,Cheb,97,STAN
+281,Zbyněk Linhart,12,99,111,0.8918918918918919,0.10810810810810811,281,STAN+SLK,Starostové a nezávislí,https://www.senat.cz/images/senatori/linhartz_295.jpg,Děčín,89,STAN
+270,Leopold Sulovský,22,90,112,0.8035714285714286,0.19642857142857142,270,Ostravak,Starostové a nezávislí,https://www.senat.cz/images/senatori/sulovskyl_295.jpg,Ostrava-město,80,STAN
+330,Mikuláš Bek,23,87,110,0.7909090909090909,0.20909090909090908,330,ZelODSSTANTOP09,Starostové a nezávislí,https://www.senat.cz/images/senatori/bekm_295.jpg,Brno-město,79,STAN
+328,Hana Žáková,6,104,110,0.9454545454545454,0.05454545454545454,328,STAN,Starostové a nezávislí,https://www.senat.cz/images/senatori/zakovah_295.jpg,Třebíč,95,STAN
+321,Marek Hilšer,12,98,110,0.8909090909090909,0.10909090909090909,321,MHS,Starostové a nezávislí,https://www.senat.cz/images/senatori/hilserm_295.jpg,Praha 2,89,STAN
+314,Miroslav Balatka,8,102,110,0.9272727272727272,0.07272727272727272,314,STAN,Starostové a nezávislí,https://www.senat.cz/images/senatori/balatkam_295.jpg,Sokolov,93,STAN
+313,Jiří Drahoš,14,96,110,0.8727272727272727,0.12727272727272726,313,KDU+Z+STAN+TOP,Starostové a nezávislí,https://www.senat.cz/images/senatori/drahosj_295.jpg,Praha 4,87,STAN
+311,Jan Sobotka,9,102,111,0.918918918918919,0.08108108108108109,311,STAN,Starostové a nezávislí,https://www.senat.cz/images/senatori/sobotkaj_295.jpg,Trutnov,92,STAN
+300,Michael Canov,1,111,112,0.9910714285714286,0.008928571428571428,300,SLK,Starostové a nezávislí,https://www.senat.cz/images/senatori/canovm_295.jpg,Liberec,99,STAN
+351,Marek Ošťádal,11,59,70,0.8428571428571429,0.15714285714285714,351,STAN,Starostové a nezávislí,https://www.senat.cz/images/senatori/ostadalm_295.jpg,Olomouc,84,STAN
+334,David Smoljak,16,84,100,0.84,0.16,334,STAN+Piráti+TOP,Starostové a nezávislí,https://www.senat.cz/images/senatori/smoljakd_295.jpg,Praha 9,84,STAN
