@@ -9,3 +9,4 @@ Votes CZ Senate
 - `update.py` - Update the database with the latest data from the web. Updates `data/votes.csv` and `data/vote_events.csv`.
 
 ### Data analyses
+- `attendance.py` - 

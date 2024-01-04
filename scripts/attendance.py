@@ -2,17 +2,29 @@
 
 import pandas as pd
 
-since = '2018-10-13'
+since = '2018-10-13' # beginning of the current 6y term
+since = '2023-01-01' # last year
+
+# output file names
+# current term
+attendance_file = 'data/attendance.v1.csv'
+attendance_days_file = 'data/attendance_days.v1.csv'
+# last year
+attendance_file = 'data/attendance.2023.v1.csv'
+attendance_days_file = 'data/attendance_days.2023.v1.csv'
 
 mps = pd.read_csv('data/current_mps.csv')
 votes = pd.read_csv('data/votes.csv')
+vote_events = pd.read_csv('data/vote_events.csv')
+
+# merge dates
+votes = votes.merge(vote_events.loc[:, ['vote_event_id', 'date']], on='vote_event_id', how='left')
 
 # filter out the current MPs and votes since
 votes_selected = votes[(votes['date'] > since) & (votes['voter_id'].isin(mps['mp_id']))]
 votes_selected['voter_id'] = votes_selected['voter_id'].astype('Int64')
 
 # remove votes from sitting 999 (testing)
-vote_events = pd.read_csv('data/vote_events.csv')
 votes_selected = votes_selected.merge(vote_events.loc[:, ['vote_event_id', 'sitting']], on='vote_event_id', how='left')
 votes_selected = votes_selected[votes_selected['sitting'] != 999]
 
@@ -49,7 +61,7 @@ attendance['účast'] = attendance['účast'].astype('Int64')
 attendance = attendance.sort_values(by=['abbreviation'])
 
 # save
-attendance.to_csv('data/attendance.v1.csv', index=False)
+attendance.to_csv(attendance_file, index=False)
 
 # ATTENDANCE BY DAYS
 t1 = pd.pivot_table(votes_selected, index=['voter_id', 'name', 'date'], columns=['option'], values=['group'], aggfunc='count', fill_value=0)
@@ -90,7 +102,7 @@ attendance_days['photo'] = 'https://www.senat.cz' + attendance_days['photo']
 attendance_days = attendance_days.sort_values(by=['group'])
 
 # save
-attendance_days.to_csv('data/attendance_days.v1.csv', index=False)
+attendance_days.to_csv(attendance_days_file, index=False)
 
 # TEST
 votes_selected[(votes_selected['voter_id'] == 368) & (votes_selected['option'] == 'absent')]

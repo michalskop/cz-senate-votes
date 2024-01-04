@@ -16027,3 +16027,283 @@ vote_event_id,date,sitting,vote_event_number,name,action,result,voted,quorum,yes
 21808,2023-08-02,15,21,136/14 - Návrh Senátu na propůjčení nebo udělení státních vyznamenání,schválit,pass,59.0,30.0,43.0,1.0,15.0,22.0
 21809,2023-08-02,15,22,136/14 - Návrh Senátu na propůjčení nebo udělení státních vyznamenání,schválit,pass,60.0,31.0,58.0,0.0,2.0,21.0
 21810,2023-08-02,15,23,136/14 - Návrh Senátu na propůjčení nebo udělení státních vyznamenání,schválit,pass,59.0,30.0,55.0,0.0,4.0,22.0
+21811,2023-08-10,999,1267,999. schůze Senátu,999. schůze Senátu,pass,81.0,41.0,81.0,0.0,0.0,0.0
+21812,2023-08-10,999,1268,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,0.0,81.0,0.0,0.0
+21813,2023-08-10,999,1269,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21814,2023-08-10,999,1270,999. schůze Senátu,999. schůze Senátu,pass,81.0,41.0,68.0,13.0,0.0,0.0
+21815,2023-08-10,999,1271,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,13.0,68.0,0.0,0.0
+21816,2023-08-10,999,1272,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21817,2023-08-11,999,1277,999. schůze Senátu,999. schůze Senátu,pass,81.0,41.0,81.0,0.0,0.0,0.0
+21818,2023-08-11,999,1278,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,0.0,81.0,0.0,0.0
+21819,2023-08-11,999,1279,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21820,2023-08-11,999,1280,999. schůze Senátu,999. schůze Senátu,pass,81.0,41.0,68.0,13.0,0.0,0.0
+21821,2023-08-11,999,1281,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,13.0,68.0,0.0,0.0
+21822,2023-08-11,999,1282,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21823,2023-08-11,999,1283,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,25.0,25.0,31.0,0.0
+21824,2023-08-11,999,1284,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21825,2023-08-14,999,1285,Test zákon,Test zákon,pass,21.0,11.0,21.0,0.0,0.0,60.0
+21826,2023-08-14,999,1286,Test zákon,Test zákon,fail,21.0,11.0,0.0,21.0,0.0,60.0
+21827,2023-08-14,999,1287,Test zákon,Test zákon,pass,21.0,11.0,21.0,0.0,0.0,60.0
+21828,2023-08-15,999,1288,Test zákon,Test zákon,pass,3.0,2.0,3.0,0.0,0.0,78.0
+21829,2023-08-15,999,1289,Test zákon,Test zákon,fail,3.0,2.0,0.0,3.0,0.0,78.0
+21830,2023-08-15,999,1290,Test zákon,Test zákon,fail,3.0,2.0,0.0,0.0,3.0,78.0
+21831,2023-08-15,999,1291,Test zákon,Test zákon,fail,3.0,2.0,0.0,0.0,3.0,78.0
+21832,2023-08-15,999,1292,Test zákon,Test zákon,fail,3.0,2.0,0.0,0.0,3.0,78.0
+21833,2023-08-16,999,1293,Test zákon,Test zákon,pass,3.0,2.0,3.0,0.0,0.0,78.0
+21834,2023-08-16,999,1294,Test zákon,Test zákon,fail,3.0,2.0,0.0,0.0,3.0,78.0
+21835,2023-08-16,999,1295,Test zákon,Test zákon,fail,3.0,2.0,1.0,0.0,2.0,78.0
+21836,2023-08-17,999,1296,Test zákon,Test zákon,pass,3.0,2.0,3.0,0.0,0.0,78.0
+21837,2023-08-17,999,1297,Test zákon,Test zákon,fail,3.0,2.0,0.0,0.0,3.0,78.0
+21838,2023-08-17,999,1298,Test zákon,Test zákon,fail,3.0,2.0,0.0,1.0,2.0,78.0
+21839,2023-08-22,999,1299,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,0.0,6.0,75.0,0.0
+21840,2023-08-22,999,1300,999. schůze Senátu,999. schůze Senátu,pass,81.0,41.0,81.0,0.0,0.0,0.0
+21841,2023-08-22,999,1301,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,0.0,81.0,0.0,0.0
+21842,2023-08-22,999,1302,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21843,2023-08-22,999,1303,999. schůze Senátu,999. schůze Senátu,pass,81.0,41.0,68.0,13.0,0.0,0.0
+21844,2023-08-22,999,1304,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,13.0,68.0,0.0,0.0
+21845,2023-08-22,999,1305,999. schůze Senátu,999. schůze Senátu,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21846,2023-08-23,999,1306,Test zákon,Test zákon,pass,81.0,41.0,81.0,0.0,0.0,0.0
+21847,2023-08-23,999,1307,Test zákon,Test zákon,fail,81.0,41.0,0.0,81.0,0.0,0.0
+21848,2023-08-23,999,1308,Test zákon,Test zákon,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21849,2023-08-23,999,1309,Test zákon,Test zákon,pass,81.0,41.0,68.0,13.0,0.0,0.0
+21850,2023-08-23,999,1310,Test zákon,Test zákon,fail,81.0,41.0,13.0,68.0,0.0,0.0
+21851,2023-08-23,999,1311,Test zákon,Test zákon,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21852,2023-08-23,16,1,16. schůze Senátu,určení ověřovatelů,pass,68.0,35.0,67.0,0.0,1.0,13.0
+21853,2023-08-23,16,2,16. schůze Senátu,změna pořadu,pass,69.0,35.0,65.0,0.0,4.0,12.0
+21854,2023-08-23,16,3,16. schůze Senátu,schválení pořadu,pass,69.0,35.0,68.0,0.0,1.0,12.0
+21855,2023-08-23,16,4,"131/14 - Návrh zákona, kterým se mění zákon č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění pozdějších předpisů, a další související zákony",schválit,pass,70.0,36.0,65.0,2.0,3.0,11.0
+21856,2023-08-23,16,5,"134/14 - Návrh zákona, kterým se mění zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 168/1999 Sb., o pojištění odpovědnosti za újmu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění pozdější předpisů",schválit,pass,73.0,37.0,71.0,0.0,2.0,8.0
+21857,2023-08-23,16,6,Návrh usnesení Senátu ke způsobu zveřejnění výzvy předsedy Senátu k předložení návrhů kandidátů na člena Rady České televize a Rady Českého rozhlasu,určení zpravodaje,pass,73.0,37.0,63.0,0.0,10.0,8.0
+21858,2023-08-23,16,7,Návrh usnesení Senátu ke způsobu zveřejnění výzvy předsedy Senátu k předložení návrhů kandidátů na člena Rady České televize a Rady Českého rozhlasu,schválit,pass,73.0,37.0,67.0,0.0,6.0,8.0
+21859,2023-08-23,16,8,132/14 - Návrh zákona o preventivní restrukturalizaci,schválit,pass,70.0,36.0,64.0,0.0,6.0,11.0
+21860,2023-08-23,16,9,"133/14 - Návrh zákona, kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, zákon č. 312/2006 Sb., o insolvenčních správcích, ve znění pozdějších předpisů, a další související zákony",schválit,pass,71.0,36.0,58.0,0.0,13.0,10.0
+21861,2023-08-23,16,10,"117/14 - Vládní návrh, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Smlouva mezi Českou republikou a Spojenými arabskými emiráty o zamezení dvojímu zdanění v oboru daní z příjmu a o zabránění daňovému úniku a vyhýbání se daňové povinnosti, která byla podepsána v Praze dne 24. května 2023",dát souhlas k ratifikaci,pass,72.0,37.0,53.0,0.0,19.0,9.0
+21862,2023-08-23,16,11,"138/14 - Vládní návrh, kterým se předkládá Senátu Parlamentu České republiky k vyslovení předchozího souhlasu návrh nařízení Rady, kterým se mění nařízení (EU) č. 216/2013 o elektronickém vydávání Úředního věstníku Evropské unie (2023/ST/06551)",vyslovit souhlas,pass,57.0,29.0,57.0,0.0,0.0,24.0
+21863,2023-08-23,16,12,"137/14 - Návrh zákona, kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů",schválit,pass,62.0,32.0,51.0,6.0,5.0,19.0
+21864,2023-10-04,999,1312,Test zákon,Test zákon,pass,1.0,1.0,1.0,0.0,0.0,80.0
+21865,2023-10-05,999,1313,Test zákon,Test zákon,pass,1.0,1.0,1.0,0.0,0.0,80.0
+21866,2023-10-05,999,1314,Test zákon,Test zákon,fail,1.0,1.0,0.0,1.0,0.0,80.0
+21867,2023-10-11,999,1315,999. schůze Senátu,nezabývat se,pass,1.0,1.0,1.0,0.0,0.0,80.0
+21868,2023-10-16,999,1316,Test zákon,Test zákon,pass,81.0,41.0,81.0,0.0,0.0,0.0
+21869,2023-10-16,999,1317,Test zákon,Test zákon,fail,81.0,41.0,0.0,81.0,0.0,0.0
+21870,2023-10-16,999,1318,Test zákon,Test zákon,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21871,2023-10-16,999,1319,Test zákon,Test zákon,pass,81.0,41.0,68.0,13.0,0.0,0.0
+21872,2023-10-16,999,1320,Test zákon,Test zákon,fail,81.0,41.0,13.0,68.0,0.0,0.0
+21873,2023-10-16,999,1321,Test zákon,Test zákon,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21874,2023-10-17,999,1322,Test zákon,nezabývat se,pass,81.0,41.0,61.0,20.0,0.0,0.0
+21875,2023-10-17,999,1323,Test zákon,nezabývat se,fail,81.0,41.0,0.0,81.0,0.0,0.0
+21876,2023-10-17,999,1324,Test zákon,nezabývat se,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21877,2023-10-17,999,1325,Test zákon,nezabývat se,pass,81.0,41.0,68.0,13.0,0.0,0.0
+21878,2023-10-17,999,1326,Test zákon,nezabývat se,fail,81.0,41.0,13.0,68.0,0.0,0.0
+21879,2023-10-17,999,1327,Test zákon,nezabývat se,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21880,2023-10-18,999,1328,Test zákon,určení ověřovatelů,pass,81.0,41.0,81.0,0.0,0.0,0.0
+21881,2023-10-18,999,1329,Test zákon,určení ověřovatelů,fail,81.0,41.0,0.0,81.0,0.0,0.0
+21882,2023-10-18,999,1330,Test zákon,určení ověřovatelů,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21883,2023-10-18,999,1331,Test zákon,určení ověřovatelů,pass,81.0,41.0,68.0,13.0,0.0,0.0
+21884,2023-10-18,999,1332,Test zákon,určení ověřovatelů,fail,81.0,41.0,13.0,68.0,0.0,0.0
+21885,2023-10-18,999,1333,Test zákon,určení ověřovatelů,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21886,2023-10-18,17,1,17. schůze Senátu,určení ověřovatelů,pass,68.0,35.0,68.0,0.0,0.0,13.0
+21887,2023-10-18,17,2,17. schůze Senátu,změna pořadu,fail,73.0,37.0,7.0,48.0,18.0,8.0
+21888,2023-10-18,17,3,17. schůze Senátu,změna pořadu,fail,73.0,37.0,7.0,39.0,27.0,8.0
+21889,2023-10-18,17,4,17. schůze Senátu,změna pořadu,fail,72.0,37.0,4.0,52.0,16.0,9.0
+21890,2023-10-18,17,5,17. schůze Senátu,schválení pořadu,pass,72.0,37.0,67.0,1.0,4.0,9.0
+21891,2023-10-18,17,6,"Informace vlády ČR o výsledcích jednání neformálního zasedání hlav států a předsedů vlád, které se konalo dne 6. října 2023",určení zpravodaje,pass,72.0,37.0,62.0,0.0,10.0,9.0
+21892,2023-10-18,17,7,"Informace vlády ČR o výsledcích jednání neformálního zasedání hlav států a předsedů vlád, které se konalo dne 6. října 2023",vzít na vědomí,pass,72.0,37.0,58.0,0.0,14.0,9.0
+21893,2023-10-18,17,8,"160/14 - Informace vlády ČR o pozicích vlády a programu jednání Evropské rady, které se koná ve dnech 26. - 27. října 2023",procedurální návrh,pass,72.0,37.0,60.0,0.0,12.0,9.0
+21894,2023-10-18,17,9,"160/14 - Informace vlády ČR o pozicích vlády a programu jednání Evropské rady, které se koná ve dnech 26. - 27. října 2023",vzít na vědomí,pass,73.0,37.0,63.0,0.0,10.0,8.0
+21895,2023-10-18,17,10,Návrh usnesení Senátu k situaci v Izraeli po teroristických útocích dne 7. října 2023,určení zpravodaje,pass,73.0,37.0,63.0,0.0,10.0,8.0
+21896,2023-10-18,17,11,Návrh usnesení Senátu k situaci v Izraeli po teroristických útocích dne 7. října 2023,procedurální návrh,pass,74.0,38.0,70.0,0.0,4.0,7.0
+21897,2023-10-18,17,12,143/14 - Žádost prezidenta republiky o vyslovení souhlasu Senátu Parlamentu České republiky s jmenováním soudce Ústavního soudu (JUDr. Pavel Simon),souhlas s účastí,pass,75.0,38.0,75.0,0.0,0.0,6.0
+21898,2023-10-18,17,13,17. schůze Senátu,procedurální návrh,pass,64.0,33.0,48.0,0.0,16.0,17.0
+21899,2023-10-18,17,14,"155/14 - Návrh zákona, kterým se mění zákon č. 503/2012 Sb., o Státním pozemkovém úřadu a o změně některých souvisejících zákonů, ve znění pozdějších předpisů",schválit,pass,71.0,36.0,63.0,0.0,8.0,10.0
+21900,2023-10-18,17,15,Návrh usnesení Senátu k situaci v Izraeli po teroristických útocích dne 7. října 2023,schválit,pass,72.0,37.0,71.0,0.0,1.0,9.0
+21901,2023-10-18,17,16,Návrh usnesení Senátu k situaci v Izraeli po teroristických útocích dne 7. října 2023,schválit,pass,73.0,37.0,72.0,0.0,1.0,8.0
+21902,2023-10-18,17,17,Návrh usnesení Senátu k situaci v Izraeli po teroristických útocích dne 7. října 2023,schválit,pass,73.0,37.0,60.0,1.0,12.0,8.0
+21903,2023-10-18,17,18,Návrh usnesení Senátu k situaci v Izraeli po teroristických útocích dne 7. října 2023,schválit,pass,73.0,37.0,68.0,1.0,4.0,8.0
+21904,2023-10-18,17,19,"154/14 - Návrh zákona, kterým se mění zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, ve znění pozdějších předpisů",schválit,pass,70.0,36.0,57.0,0.0,13.0,11.0
+21905,2023-10-18,17,20,"291/13 - Návrh senátního návrhu zákona senátora Petra Orla a dalších senátorů, kterým se mění zákon 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů",zamítnout,fail,70.0,36.0,23.0,26.0,21.0,11.0
+21906,2023-10-18,17,21,"291/13 - Návrh senátního návrhu zákona senátora Petra Orla a dalších senátorů, kterým se mění zákon 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů",1.pozměňovací návrh,fail,72.0,37.0,35.0,1.0,36.0,9.0
+21907,2023-10-18,17,22,"291/13 - Návrh senátního návrhu zákona senátora Petra Orla a dalších senátorů, kterým se mění zákon 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů",námitka,fail,70.0,36.0,33.0,18.0,19.0,11.0
+21908,2023-10-18,17,23,"291/13 - Návrh senátního návrhu zákona senátora Petra Orla a dalších senátorů, kterým se mění zákon 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů",schválit,fail,69.0,35.0,31.0,11.0,27.0,12.0
+21909,2023-10-18,17,24,"148/14 - Návrh zákona, kterým se mění zákon č. 588/2020 Sb., o náhradním výživném pro nezaopatřené dítě a o změně některých souvisejících zákonů (zákon o náhradním výživném)",schválit,pass,71.0,36.0,56.0,4.0,11.0,10.0
+21910,2023-10-18,17,25,"149/14 - Návrh zákona, kterým se mění zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a některé další zákony",schválit,pass,66.0,34.0,56.0,0.0,10.0,15.0
+21911,2023-10-18,17,26,J 61/14 - Návrh doporučení Rady ohledně vypracování rámcových podmínek sociální ekonomiky,schválit,pass,68.0,35.0,40.0,1.0,27.0,13.0
+21912,2023-10-18,17,27,17. schůze Senátu,procedurální návrh,pass,68.0,35.0,57.0,0.0,11.0,13.0
+21913,2023-10-18,17,28,"152/14 - Návrh zákona, kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a zákon č. 277/2009 Sb., o pojišťovnictví, ve znění pozdějších předpisů",schválit,pass,69.0,35.0,56.0,1.0,12.0,12.0
+21914,2023-10-18,17,29,"121/14 - Vládní návrh, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Smlouva mezi Českou republikou a Rwandskou republikou o zamezení dvojímu zdanění v oboru daní z příjmu a o zabránění daňovému úniku a vyhýbání se daňové povinnosti, která byla podepsána v Kigali dne 2. května 2023",dát souhlas k ratifikaci,pass,70.0,36.0,63.0,0.0,7.0,11.0
+21915,2023-10-18,17,30,N 67/14 - Balíček k novým vlastním zdrojům EU,schválit,pass,69.0,35.0,57.0,0.0,12.0,12.0
+21916,2023-10-18,17,31,N 63/14 - Balíček k revizi Víceletého finančního rámce 2021-2027,schválit,pass,66.0,34.0,50.0,0.0,16.0,15.0
+21917,2023-10-18,17,32,N 75/14 - Návrh směrnice Rady o rychlejší a spolehlivější úlevě z nadměrných srážkových daní,schválit,pass,64.0,33.0,46.0,0.0,18.0,17.0
+21918,2023-10-18,17,33,"153/14 - Návrh zákona, kterým se mění zákon č. 279/2003 Sb., o výkonu zajištění majetku a věcí v trestním řízení a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony",schválit,pass,64.0,33.0,43.0,0.0,21.0,17.0
+21919,2023-10-18,17,34,"N 79/14 - Návrh směrnice Evropského parlamentu a Rady, kterou se mění směrnice 2012/29/EU, kterou se zavádí minimální pravidla pro práva, podporu a ochranu obětí trestného činu a kterou se nahrazuje rámcové rozhodnutí Rady 2001/220/SVV",schválit,pass,67.0,34.0,57.0,0.0,10.0,14.0
+21920,2023-10-18,17,35,"123/14 - Vládní návrh, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Smlouva o vzájemné právní pomoci ve věcech trestních mezi Českou republikou a Vietnamskou socialistickou republikou (Hanoj, 21. 4. 2023)",dát souhlas k ratifikaci,pass,67.0,34.0,56.0,0.0,11.0,14.0
+21921,2023-10-18,17,36,"151/14 - Návrh zákona, kterým se mění některé zákony v oblasti krizových stavů a státních hmotných rezerv",schválit,pass,67.0,34.0,58.0,0.0,9.0,14.0
+21922,2023-10-18,17,37,Návrh usnesení Senátu k násilné rusifikaci dětí z Ukrajiny,určení zpravodaje,pass,59.0,30.0,53.0,0.0,6.0,22.0
+21923,2023-10-18,17,38,Návrh usnesení Senátu k násilné rusifikaci dětí z Ukrajiny,schválit,fail,63.0,32.0,1.0,28.0,34.0,18.0
+21924,2023-10-18,17,39,Návrh usnesení Senátu k násilné rusifikaci dětí z Ukrajiny,schválit,pass,63.0,32.0,55.0,0.0,8.0,18.0
+21925,2023-10-18,17,40,Návrh usnesení Senátu k násilné rusifikaci dětí z Ukrajiny,schválit,pass,63.0,32.0,59.0,0.0,4.0,18.0
+21926,2023-10-18,17,41,Návrh usnesení Senátu k humanitárním potřebám a situace arménské menšiny v Náhorním Karabachu,určení zpravodaje,pass,61.0,31.0,56.0,0.0,5.0,20.0
+21927,2023-10-18,17,42,Návrh usnesení Senátu k humanitárním potřebám a situace arménské menšiny v Náhorním Karabachu,schválit,pass,60.0,31.0,57.0,1.0,2.0,21.0
+21928,2023-11-07,999,1334,Test zákon,schválit,pass,81.0,41.0,81.0,0.0,0.0,0.0
+21929,2023-11-07,999,1335,Test zákon,schválit,fail,81.0,41.0,0.0,81.0,0.0,0.0
+21930,2023-11-07,999,1336,Test zákon,schválit,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21931,2023-11-07,999,1337,Test zákon,schválit,pass,81.0,41.0,68.0,13.0,0.0,0.0
+21932,2023-11-07,999,1338,Test zákon,schválit,fail,81.0,41.0,13.0,68.0,0.0,0.0
+21933,2023-11-07,999,1339,Test zákon,schválit,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21934,2023-11-08,999,1340,Test zákon,schválit,pass,81.0,41.0,81.0,0.0,0.0,0.0
+21935,2023-11-08,999,1341,Test zákon,schválit,fail,81.0,41.0,0.0,80.0,1.0,0.0
+21936,2023-11-08,999,1342,Test zákon,schválit,fail,81.0,41.0,0.0,81.0,0.0,0.0
+21937,2023-11-08,999,1343,Test zákon,schválit,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21938,2023-11-08,999,1344,Test zákon,schválit,pass,81.0,41.0,68.0,13.0,0.0,0.0
+21939,2023-11-08,999,1345,Test zákon,schválit,fail,81.0,41.0,13.0,68.0,0.0,0.0
+21940,2023-11-08,999,1346,Test zákon,schválit,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21941,2023-11-08,18,1,18. schůze Senátu,určení ověřovatelů,pass,65.0,33.0,63.0,0.0,2.0,16.0
+21942,2023-11-08,18,2,18. schůze Senátu,schválení pořadu,pass,72.0,37.0,71.0,0.0,1.0,9.0
+21943,2023-11-08,18,3,159/14 - Návrh na působení sil a prostředků rezortu Ministerstva obrany v zahraničních operacích a na pobyt ozbrojených sil jiných států na území České republiky v letech 2023 a 2024,vyslovit souhlas,pass,74.0,41.0,71.0,1.0,2.0,7.0
+21944,2023-11-08,18,4,159/14 - Návrh na působení sil a prostředků rezortu Ministerstva obrany v zahraničních operacích a na pobyt ozbrojených sil jiných států na území České republiky v letech 2023 a 2024,schválit,pass,74.0,38.0,71.0,1.0,2.0,7.0
+21945,2023-11-08,18,5,18. schůze Senátu,procedurální návrh,pass,74.0,38.0,71.0,0.0,3.0,7.0
+21946,2023-11-08,18,6,18. schůze Senátu,procedurální návrh,pass,74.0,38.0,73.0,1.0,0.0,7.0
+21947,2023-11-08,18,7,"161/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů",schválit,pass,74.0,38.0,53.0,10.0,11.0,7.0
+21948,2023-11-08,18,8,"161/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů",doprovodné usnesení,pass,73.0,37.0,60.0,1.0,12.0,8.0
+21949,2023-11-08,18,9,"161/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů",doprovodné usnesení,fail,73.0,37.0,32.0,1.0,40.0,8.0
+21950,2023-11-08,18,10,"161/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů",doprovodné usnesení,pass,73.0,37.0,40.0,0.0,33.0,8.0
+21951,2023-11-08,18,11,"161/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů",doprovodné usnesení,fail,73.0,37.0,26.0,3.0,44.0,8.0
+21952,2023-11-08,18,12,"161/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů",doprovodné usnesení,pass,73.0,37.0,40.0,0.0,33.0,8.0
+21953,2023-11-08,18,13,"161/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů",doprovodné usnesení,fail,73.0,37.0,24.0,6.0,43.0,8.0
+21954,2023-11-08,18,14,"161/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů",schválit,pass,73.0,37.0,55.0,0.0,18.0,8.0
+21955,2023-11-08,18,15,"Senátní tisk č. J 44/14, K 45/14, N 46/14 a N 47/14 - Farmaceutický balíček",schválit,pass,71.0,36.0,59.0,0.0,12.0,10.0
+21956,2023-11-08,18,16,"162/14 - Návrh senátního návrhu zákona senátorů Ladislava Václavce, Jitky Seitlové a dalších senátorů, kterým se mění zákon č. 95/2004 Sb. o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta",přikázat výborům,pass,71.0,36.0,66.0,0.0,5.0,10.0
+21957,2023-11-08,18,17,"162/14 - Návrh senátního návrhu zákona senátorů Ladislava Václavce, Jitky Seitlové a dalších senátorů, kterým se mění zákon č. 95/2004 Sb. o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta",zkrátit lhůtu,pass,71.0,36.0,61.0,0.0,10.0,10.0
+21958,2023-11-08,18,18,"158/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s elektronizací vybraných agend",schválit,pass,66.0,34.0,61.0,1.0,4.0,15.0
+21959,2023-11-08,18,19,K 92/14 - Společná zpráva Evropskému parlamentu a Radě zvláštní administrativní oblast Hongkong Výroční zpráva za rok 2022,schválit,pass,58.0,30.0,50.0,0.0,8.0,23.0
+21960,2023-11-08,18,20,"164/14 - Informace vlády ČR o výsledcích jednání Evropské rady, která se konala ve dnech 26. - 27. října 2023",vzít na vědomí,pass,58.0,30.0,56.0,0.0,2.0,23.0
+21961,2023-11-28,999,1347,Test zákon,určení ověřovatelů,pass,81.0,41.0,81.0,0.0,0.0,0.0
+21962,2023-11-28,999,1348,Test zákon,určení ověřovatelů,fail,81.0,41.0,0.0,81.0,0.0,0.0
+21963,2023-11-28,999,1349,Test zákon,určení ověřovatelů,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21964,2023-11-28,999,1350,Test zákon,určení ověřovatelů,pass,81.0,41.0,68.0,13.0,0.0,0.0
+21965,2023-11-28,999,1351,Test zákon,určení ověřovatelů,fail,81.0,41.0,13.0,68.0,0.0,0.0
+21966,2023-11-28,999,1352,Test zákon,určení ověřovatelů,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21967,2023-11-29,999,1353,Test zákon,schválit,pass,81.0,41.0,81.0,0.0,0.0,0.0
+21968,2023-11-29,999,1354,Test zákon,schválit,fail,81.0,41.0,0.0,81.0,0.0,0.0
+21969,2023-11-29,999,1355,Test zákon,schválit,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21970,2023-11-29,999,1356,Test zákon,schválit,pass,81.0,41.0,68.0,13.0,0.0,0.0
+21971,2023-11-29,999,1357,Test zákon,schválit,fail,81.0,41.0,13.0,68.0,0.0,0.0
+21972,2023-11-29,999,1358,Test zákon,schválit,fail,81.0,41.0,0.0,0.0,81.0,0.0
+21973,2023-11-29,19,1,19. schůze Senátu,určení ověřovatelů,pass,75.0,38.0,75.0,0.0,0.0,6.0
+21974,2023-11-29,19,2,19. schůze Senátu,změna pořadu,fail,75.0,38.0,13.0,54.0,8.0,6.0
+21975,2023-11-29,19,3,19. schůze Senátu,schválení pořadu,pass,75.0,38.0,73.0,0.0,2.0,6.0
+21976,2023-11-29,19,4,"168/14 - Návrh zákona, kterým se mění zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, zákon č. 73/2011 Sb., o Úřadu práce České republiky a o změně souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 111/2006 Sb., o pomoci v hmotné nouzi, ve znění pozdějších předpisů, a některé další zákony",schválit,pass,78.0,40.0,62.0,4.0,12.0,3.0
+21977,2023-11-29,19,5,"183/14 - Návrh zákona, kterým se mění zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů, a další související zákony",schválit,pass,76.0,39.0,62.0,4.0,10.0,5.0
+21978,2023-11-29,19,6,"165/14 - Návrh zákona, kterým se mění zákon č. 374/2011 Sb., o zdravotnické záchranné službě, ve znění pozdějších předpisů, a zákon č. 325/2021 Sb., o elektronizaci zdravotnictví",schválit,pass,76.0,39.0,70.0,0.0,6.0,5.0
+21979,2023-11-29,19,7,"167/14 - Návrh zákona, kterým se mění zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů",schválit,pass,76.0,39.0,70.0,0.0,6.0,5.0
+21980,2023-11-29,19,8,19. schůze Senátu,procedurální návrh,pass,69.0,35.0,66.0,0.0,3.0,12.0
+21981,2023-11-29,19,9,178/14 - Volba členů Rady České televize,procedurální návrh,pass,71.0,36.0,68.0,0.0,3.0,10.0
+21982,2023-11-29,19,10,"N 83/14 - Návrh nařízení Evropského parlamentu a Rady o využívání kapacity železniční infrastruktury v jednotném železničním prostoru, o změně směrnice 2012/34/EU a o zrušení nařízení (EU) č. 913/2010",schválit,pass,68.0,35.0,53.0,0.0,15.0,13.0
+21983,2023-11-29,19,11,"182/14 - Návrh zákona, kterým se mění a ruší některé zákony v souvislosti se zrušením Úřadu pro přístup k dopravní infrastruktuře",schválit,pass,75.0,38.0,61.0,0.0,14.0,6.0
+21984,2023-11-29,19,12,"179/14 - Návrh zákona, kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací (liniový zákon), ve znění pozdějších předpisů, a další související zákony",schválit,pass,74.0,38.0,41.0,10.0,23.0,7.0
+21985,2023-11-29,19,13,"179/14 - Návrh zákona, kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací (liniový zákon), ve znění pozdějších předpisů, a další související zákony",doprovodné usnesení,pass,71.0,36.0,54.0,0.0,17.0,10.0
+21986,2023-11-29,19,14,19. schůze Senátu,procedurální návrh,pass,67.0,34.0,60.0,0.0,7.0,14.0
+21987,2023-11-29,19,15,"139/14 - Vládní návrh, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací změna přílohy A Stockholmské úmluvy o perzistentních organických polutantech, přijatá v Ženevě dne 17. června 2022",dát souhlas k ratifikaci,fail,63.0,32.0,1.0,0.0,62.0,18.0
+21988,2023-11-29,19,16,"139/14 - Vládní návrh, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací změna přílohy A Stockholmské úmluvy o perzistentních organických polutantech, přijatá v Ženevě dne 17. června 2022",dát souhlas k ratifikaci,pass,65.0,33.0,58.0,0.0,7.0,16.0
+21989,2023-11-29,19,17,N 77/14 - Návrh směrnice Evropského parlamentu a Rady o monitorování a odolnosti půdy (zákon o monitorování půdy),schválit,pass,69.0,35.0,60.0,0.0,9.0,12.0
+21990,2023-11-29,19,18,"N 84/14 - Návrh nařízení Evropského parlamentu a Rady o požadavcích oběhovosti pro konstrukci vozidel a nakládání s vozidly s ukončenou životností, a kterým se mění nařízení (EU) č. 2018/858 a č. 2019/1020 a ruší směrnice 2000/53/ES a 2005/64/ES",schválit,pass,68.0,35.0,56.0,0.0,12.0,13.0
+21991,2023-11-29,19,19,N 76/14 - Návrh nařízení Evropského parlamentu a Rady o rostlinách získaných některými novými genomickými technikami a jejich potravinách a krmivech a o změně nařízení (EU) č. 2017/625,schválit,pass,72.0,37.0,62.0,0.0,10.0,9.0
+21992,2023-11-29,19,20,"172/14 - Návrh zákona, kterým se mění zákon č. 72/2000 Sb., o investičních pobídkách a o změně některých zákonů (zákon o investičních pobídkách), ve znění pozdějších předpisů",schválit,pass,71.0,36.0,59.0,3.0,9.0,10.0
+21993,2023-11-29,19,21,177/14 - Návrh zákona o požadavcích na přístupnost některých výrobků a služeb,schválit,pass,70.0,36.0,50.0,5.0,15.0,11.0
+21994,2023-11-30,999,1359,Test zákon,schválit,pass,81.0,49.0,81.0,0.0,0.0,0.0
+21995,2023-11-30,999,1360,Test zákon,schválit,fail,81.0,49.0,0.0,80.0,1.0,0.0
+21996,2023-11-30,999,1361,Test zákon,schválit,fail,81.0,49.0,0.0,81.0,0.0,0.0
+21997,2023-11-30,999,1362,Test zákon,schválit,fail,81.0,49.0,0.0,0.0,81.0,0.0
+21998,2023-11-30,999,1363,Test zákon,schválit,pass,81.0,49.0,68.0,13.0,0.0,0.0
+21999,2023-11-30,999,1364,Test zákon,schválit,fail,81.0,49.0,13.0,68.0,0.0,0.0
+22000,2023-11-30,999,1365,Test zákon,schválit,fail,81.0,49.0,0.0,0.0,81.0,0.0
+22001,2023-11-30,19,22,"180/14 - Návrh zákona, kterým se mění zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů, zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, a další související zákony",schválit,pass,68.0,35.0,67.0,0.0,1.0,13.0
+22002,2023-11-30,19,23,"181/14 - Návrh zákona, kterým se mění zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony",schválit,fail,72.0,37.0,29.0,6.0,37.0,9.0
+22003,2023-11-30,19,24,"181/14 - Návrh zákona, kterým se mění zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony",1.pozměňovací návrh,fail,71.0,36.0,33.0,5.0,33.0,10.0
+22004,2023-11-30,19,25,"181/14 - Návrh zákona, kterým se mění zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony",2.pozměňovací návrh,fail,71.0,36.0,4.0,1.0,66.0,10.0
+22005,2023-11-30,19,26,"181/14 - Návrh zákona, kterým se mění zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony",námitka,pass,71.0,36.0,51.0,2.0,18.0,10.0
+22006,2023-11-30,19,27,"181/14 - Návrh zákona, kterým se mění zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony",2.pozměňovací návrh,fail,65.0,33.0,32.0,8.0,25.0,16.0
+22007,2023-11-30,19,28,"181/14 - Návrh zákona, kterým se mění zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony",3.pozměňovací návrh,fail,66.0,34.0,24.0,6.0,36.0,15.0
+22008,2023-11-30,19,29,107/14 - Petice za obnovení legislativní ochrany lidského života od početí,souhlas s účastí,pass,48.0,25.0,39.0,1.0,8.0,33.0
+22009,2023-11-30,19,30,107/14 - Petice za obnovení legislativní ochrany lidského života od početí,vzít na vědomí,pass,65.0,33.0,61.0,0.0,4.0,16.0
+22010,2023-11-30,19,31,107/14 - Petice za obnovení legislativní ochrany lidského života od početí,schválit,pass,65.0,33.0,49.0,4.0,12.0,16.0
+22011,2023-11-30,19,32,107/14 - Petice za obnovení legislativní ochrany lidského života od početí,schválit,fail,65.0,33.0,13.0,16.0,36.0,16.0
+22012,2023-11-30,19,33,107/14 - Petice za obnovení legislativní ochrany lidského života od početí,schválit,fail,65.0,33.0,2.0,24.0,39.0,16.0
+22013,2023-11-30,19,34,107/14 - Petice za obnovení legislativní ochrany lidského života od početí,schválit,fail,65.0,33.0,6.0,16.0,43.0,16.0
+22014,2023-11-30,19,35,19. schůze Senátu,procedurální návrh,pass,62.0,32.0,58.0,0.0,4.0,19.0
+22015,2023-11-30,19,36,"170/14 - Návrh zákona, kterým se mění zákon č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a některé další zákony",schválit,pass,59.0,30.0,53.0,0.0,6.0,22.0
+22016,2023-11-30,19,37,N 87/14 - Návrh směrnice Evropského parlamentu a Rady o evropských přeshraničních sdruženíc,schválit,pass,59.0,30.0,52.0,0.0,7.0,22.0
+22017,2023-11-30,19,38,"171/14 - Návrh zákona, kterým se mění zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, a další související zákony",schválit,pass,48.0,25.0,26.0,2.0,20.0,33.0
+22018,2023-11-30,19,39,173/14 - Návrh zákona o dorovnávacích daních pro velké nadnárodní skupiny a velké vnitrostátní skupiny,schválit,pass,49.0,25.0,48.0,1.0,0.0,32.0
+22019,2023-11-30,19,40,"174/14 - Návrh zákona, kterým se mění zákon č. 374/2015 Sb., o ozdravných postupech a řešení krize na finančním trhu, ve znění pozdějších předpisů",schválit,pass,51.0,26.0,50.0,1.0,0.0,30.0
+22020,2023-12-13,999,1366,Test zákon,Test zákon,pass,81.0,41.0,81.0,0.0,0.0,0.0
+22021,2023-12-13,999,1367,Test zákon,Test zákon,fail,81.0,41.0,0.0,81.0,0.0,0.0
+22022,2023-12-13,999,1368,Test zákon,Test zákon,fail,81.0,41.0,0.0,0.0,81.0,0.0
+22023,2023-12-13,999,1369,Test zákon,Test zákon,pass,81.0,41.0,68.0,13.0,0.0,0.0
+22024,2023-12-13,999,1370,Test zákon,Test zákon,fail,81.0,41.0,13.0,66.0,2.0,0.0
+22025,2023-12-13,999,1371,Test zákon,Test zákon,fail,81.0,41.0,13.0,68.0,0.0,0.0
+22026,2023-12-13,999,1372,Test zákon,Test zákon,fail,81.0,41.0,0.0,1.0,80.0,0.0
+22027,2023-12-13,999,1373,Test zákon,Test zákon,fail,81.0,41.0,0.0,0.0,81.0,0.0
+22028,2023-12-14,999,1374,Test zákon,určení ověřovatelů,pass,81.0,41.0,81.0,0.0,0.0,0.0
+22029,2023-12-14,999,1375,Test zákon,určení ověřovatelů,fail,81.0,41.0,0.0,81.0,0.0,0.0
+22030,2023-12-14,999,1376,Test zákon,určení ověřovatelů,fail,81.0,41.0,0.0,0.0,81.0,0.0
+22031,2023-12-14,999,1377,Test zákon,určení ověřovatelů,pass,81.0,41.0,68.0,13.0,0.0,0.0
+22032,2023-12-14,999,1378,Test zákon,určení ověřovatelů,fail,81.0,41.0,13.0,68.0,0.0,0.0
+22033,2023-12-14,999,1379,Test zákon,určení ověřovatelů,fail,81.0,41.0,0.0,0.0,81.0,0.0
+22034,2023-12-14,20,1,20. schůze Senátu,určení ověřovatelů,pass,62.0,32.0,60.0,0.0,2.0,19.0
+22035,2023-12-14,20,2,20. schůze Senátu,schválení pořadu,pass,65.0,33.0,64.0,0.0,1.0,16.0
+22036,2023-12-14,20,3,"189/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s rozvojem finančního trhu a s podporou zajištění na stáří",schválit,fail,72.0,37.0,34.0,9.0,29.0,9.0
+22037,2023-12-14,20,4,"189/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s rozvojem finančního trhu a s podporou zajištění na stáří",1.pozměňovací návrh,fail,71.0,36.0,34.0,7.0,30.0,10.0
+22038,2023-12-14,20,5,"189/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s rozvojem finančního trhu a s podporou zajištění na stáří",1.pozměňovací návrh,fail,72.0,37.0,34.0,11.0,27.0,9.0
+22039,2023-12-14,20,6,"189/14 - Návrh zákona, kterým se mění některé zákony v souvislosti s rozvojem finančního trhu a s podporou zajištění na stáří",2.pozměňovací návrh,fail,72.0,37.0,33.0,11.0,28.0,9.0
+22040,2023-12-14,20,7,"193/14 - Návrh zákona, kterým se mění zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a další související zákon",schválit,pass,72.0,37.0,60.0,1.0,11.0,9.0
+22041,2023-12-14,20,8,"163/14 - Žádost prezidenta republiky o vyslovení souhlasu Senátu Parlamentu České republiky s jmenováním soudců Ústavního soudu (JUDr. Lucie Dolanská Bányaiová, Ph.D., Prof. JUDr. Zdeněk Kühn, Ph.D., LL.M., S.J.D.)",souhlas s účastí,pass,73.0,37.0,67.0,0.0,6.0,8.0
+22042,2023-12-14,20,9,"198/14 - Návrh zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a zákon č. 281/2023 Sb., kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony",schválit,pass,59.0,30.0,51.0,2.0,6.0,22.0
+22043,2023-12-14,20,10,"198/14 - Návrh zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a zákon č. 281/2023 Sb., kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony",doprovodné usnesení,pass,60.0,31.0,56.0,0.0,4.0,21.0
+22044,2023-12-14,20,11,"190/14 - Návrh zákona, kterým se mění zákon č. 269/2021 Sb., o občanských průkazech, ve znění zákona č. 471/2022 Sb., a zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů",schválit,pass,60.0,31.0,55.0,1.0,4.0,21.0
+22045,2023-12-14,20,12,20. schůze Senátu,procedurální návrh,pass,60.0,31.0,58.0,0.0,2.0,21.0
+22046,2023-12-14,20,13,"187/14 - Návrh zákona, kterým se mění zákon č. 496/2012 Sb., o audiovizuálních dílech a podpoře kinematografie a o změně některých zákonů (zákon o audiovizi), ve znění pozdějších předpisů",schválit,pass,59.0,30.0,56.0,1.0,2.0,22.0
+22047,2023-12-14,20,14,"188/14 - Návrh zákona, kterým se mění zákon č. 115/2000 Sb., o poskytování náhrad škod způsobených vybranými zvláště chráněnými živočichy, ve znění pozdějších předpisů",schválit,pass,58.0,30.0,43.0,2.0,13.0,23.0
+22048,2023-12-14,20,15,"162/14 - Návrh senátního návrhu zákona senátorů Ladislava Václavce, Jitky Seitlové a dalších senátorů, kterým se mění zákon č. 95/2004 Sb. o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta",1.pozměňovací návrh,pass,55.0,28.0,49.0,1.0,5.0,26.0
+22049,2023-12-14,20,16,"162/14 - Návrh senátního návrhu zákona senátorů Ladislava Václavce, Jitky Seitlové a dalších senátorů, kterým se mění zákon č. 95/2004 Sb. o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta",schválit s PN,pass,55.0,28.0,48.0,0.0,7.0,26.0
+22050,2023-12-14,20,17,"162/14 - Návrh senátního návrhu zákona senátorů Ladislava Václavce, Jitky Seitlové a dalších senátorů, kterým se mění zákon č. 95/2004 Sb. o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta",schválit,pass,55.0,28.0,48.0,1.0,6.0,26.0
+22051,2023-12-14,20,18,"162/14 - Návrh senátního návrhu zákona senátorů Ladislava Václavce, Jitky Seitlové a dalších senátorů, kterým se mění zákon č. 95/2004 Sb. o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta",pověření,pass,55.0,28.0,51.0,0.0,4.0,26.0
+22052,2023-12-14,20,19,197/14 - Pravidla hospodaření senátorských klubů pro rok 2024,schválit,pass,53.0,27.0,48.0,0.0,5.0,28.0
+22053,2023-12-19,999,1380,Test zákon,Test zákon,pass,81.0,41.0,80.0,0.0,1.0,0.0
+22054,2023-12-19,999,1381,Test zákon,Test zákon,pass,81.0,41.0,81.0,0.0,0.0,0.0
+22055,2023-12-19,999,1382,Test zákon,Test zákon,fail,81.0,41.0,0.0,81.0,0.0,0.0
+22056,2023-12-19,999,1383,Test zákon,Test zákon,fail,81.0,41.0,0.0,0.0,81.0,0.0
+22057,2023-12-19,999,1384,Test zákon,Test zákon,pass,81.0,41.0,68.0,13.0,0.0,0.0
+22058,2023-12-19,999,1385,Test zákon,Test zákon,fail,81.0,41.0,13.0,68.0,0.0,0.0
+22059,2023-12-19,999,1386,Test zákon,Test zákon,fail,81.0,41.0,0.0,0.0,81.0,0.0
+22060,2023-12-20,999,1387,Test zákon,změna pořadu,pass,81.0,41.0,80.0,0.0,1.0,0.0
+22061,2023-12-20,999,1388,Test zákon,změna pořadu,pass,81.0,41.0,81.0,0.0,0.0,0.0
+22062,2023-12-20,999,1389,Test zákon,změna pořadu,fail,81.0,41.0,0.0,81.0,0.0,0.0
+22063,2023-12-20,999,1390,Test zákon,změna pořadu,fail,81.0,41.0,0.0,0.0,81.0,0.0
+22064,2023-12-20,999,1391,Test zákon,změna pořadu,pass,81.0,41.0,67.0,12.0,2.0,0.0
+22065,2023-12-20,999,1392,Test zákon,změna pořadu,pass,81.0,41.0,68.0,13.0,0.0,0.0
+22066,2023-12-20,999,1393,Test zákon,změna pořadu,fail,81.0,41.0,13.0,68.0,0.0,0.0
+22067,2023-12-20,999,1394,Test zákon,změna pořadu,fail,81.0,41.0,0.0,0.0,81.0,0.0
+22068,2023-12-20,20,20,20. schůze Senátu,změna pořadu,pass,62.0,32.0,62.0,0.0,0.0,19.0
+22069,2023-12-20,20,21,"201/14 - Návrh zákona, kterým se mění zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony",schválit,pass,74.0,38.0,66.0,3.0,5.0,7.0
+22070,2023-12-20,20,22,192/14 - Návrh zákona o řízeních souvisejících s hlubinným úložištěm radioaktivního odpadu,schválit,fail,68.0,35.0,0.0,0.0,68.0,13.0
+22071,2023-12-20,20,23,192/14 - Návrh zákona o řízeních souvisejících s hlubinným úložištěm radioaktivního odpadu,schválit,fail,75.0,38.0,35.0,6.0,34.0,6.0
+22072,2023-12-20,20,24,192/14 - Návrh zákona o řízeních souvisejících s hlubinným úložištěm radioaktivního odpadu,1.pozměňovací návrh,pass,75.0,38.0,46.0,6.0,23.0,6.0
+22073,2023-12-20,20,25,192/14 - Návrh zákona o řízeních souvisejících s hlubinným úložištěm radioaktivního odpadu,2.pozměňovací návrh,fail,75.0,38.0,10.0,13.0,52.0,6.0
+22074,2023-12-20,20,26,192/14 - Návrh zákona o řízeních souvisejících s hlubinným úložištěm radioaktivního odpadu,vrátit PS,pass,76.0,39.0,47.0,9.0,20.0,5.0
+22075,2023-12-20,20,27,192/14 - Návrh zákona o řízeních souvisejících s hlubinným úložištěm radioaktivního odpadu,pověřuje,pass,76.0,39.0,61.0,0.0,15.0,5.0
+22076,2023-12-20,20,28,"203/14 - Návrh zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony",schválit,pass,74.0,38.0,62.0,1.0,11.0,7.0
+22077,2023-12-20,20,29,"203/14 - Návrh zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony",doprovodné usnesení,pass,75.0,38.0,61.0,0.0,14.0,6.0
+22078,2023-12-20,20,30,20. schůze Senátu,procedurální návrh,pass,64.0,33.0,47.0,1.0,16.0,17.0
+22079,2023-12-20,20,31,"144/14 - Vládní návrh, kterým se předkládají Parlamentu České republiky k vyslovení souhlasu s ratifikací Akta Světové poštovní unie podepsaná na 27. Kongresu Světové poštovní unie, který se konal ve dnech 9. až 27. srpna 2021 v Abidjanu",dát souhlas k ratifikaci,pass,69.0,35.0,56.0,0.0,13.0,12.0
+22080,2023-12-20,20,32,"Senátní tisk č. K 095/14 - Sdělení Komise Evropskému parlamentu, Radě, Evropskému hospodářskému a sociálnímu výboru a Výboru regionů o revizi strategického plánu pro energetické technologie (SET)",schválit,pass,73.0,37.0,64.0,0.0,9.0,8.0
+22081,2023-12-20,20,33,"202/14 - Návrh zákona, kterým se mění zákon č. 65/2022 Sb., o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, ve znění pozdějších předpisů, a další související zákony",schválit,pass,73.0,37.0,64.0,2.0,7.0,8.0
+22082,2023-12-20,20,34,"206/14 - Informace vlády ČR o výsledcích jednání Evropské rady, která se konala ve dnech 14. - 15. prosince 2023",1.pozměňovací návrh,pass,73.0,37.0,65.0,0.0,8.0,8.0
+22083,2023-12-20,20,35,"206/14 - Informace vlády ČR o výsledcích jednání Evropské rady, která se konala ve dnech 14. - 15. prosince 2023",schválit,pass,73.0,37.0,65.0,0.0,8.0,8.0
+22084,2023-12-20,20,36,"156/14 - Vládní návrh, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Protokol mezi Českou republikou a Dominikánskou republikou o změně Dohody mezi Českou republikou a Dominikánskou republikou o leteckých službách, podepsané v Nassau 7. prosince 2016",dát souhlas k ratifikaci,pass,73.0,37.0,63.0,0.0,10.0,8.0
+22085,2023-12-20,20,37,"157/14 - Vládní návrh, kterým se předkládají Parlamentu České republiky k vyslovení souhlasu s ratifikacemi Protokol mezi vládou České republiky a vládou Spojených států mexických o změně Dohody mezi vládou České a Slovenské Federativní Republiky a vládou Spojených států mexických o letecké dopravě, podepsané v Mexiku D. F. 14. srpna 1990, a Dohoda mezi vládou České a Slovenské Federativní Republiky a vládou Spojených států mexických o letecké dopravě, podepsaná v Mexiku D. F. 14. srpna 1990",dát souhlas k ratifikaci,pass,73.0,37.0,67.0,0.0,6.0,8.0
+22086,2023-12-20,20,38,Senátní tisk č. N 082/14 - Návrh nařízení Evropského parlamentu a Rady o započítávání emisí skleníkových plynů z dopravních služeb,schválit,pass,72.0,37.0,55.0,0.0,17.0,9.0
+22087,2023-12-20,20,39,"191/14 - Návrh zákona, kterým se mění zákon č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů, a zákon č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů",schválit,pass,68.0,35.0,56.0,1.0,11.0,13.0
+22088,2023-12-20,20,40,"184/14 - Návrh senátního návrhu ústavního zákona senátorky Jitky Chalánkové a dalších senátorů, kterým se mění Listina základních práv a svobod, ve znění pozdějších ústavních zákonů, a ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů",zamítnout,fail,63.0,32.0,23.0,26.0,14.0,18.0
+22089,2023-12-20,20,41,"184/14 - Návrh senátního návrhu ústavního zákona senátorky Jitky Chalánkové a dalších senátorů, kterým se mění Listina základních práv a svobod, ve znění pozdějších ústavních zákonů, a ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů",přikázat výborům,pass,64.0,33.0,47.0,3.0,14.0,17.0
+22090,2023-12-20,20,42,"184/14 - Návrh senátního návrhu ústavního zákona senátorky Jitky Chalánkové a dalších senátorů, kterým se mění Listina základních práv a svobod, ve znění pozdějších ústavních zákonů, a ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů",procedurální návrh,pass,64.0,33.0,51.0,6.0,7.0,17.0
