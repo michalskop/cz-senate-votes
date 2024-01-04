@@ -262,7 +262,7 @@ out.to_csv(localpath + "data/wpca.time.v1.csv", index=False)
 # add no club
 out['klub'] = out['klub'].fillna('Nezařazení')
 
-##### 
+##### ,
 # correct datum
 # def get_text(input_value):
 #   period_tf = {True: first_half_year['half'], False: 2 - ((first_half_year['half'] + 1) % 2)}

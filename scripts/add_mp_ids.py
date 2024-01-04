@@ -2,7 +2,6 @@
 
 # Note: this script is not used in the pipeline, it is only used to add MP IDs once
 
-import janitor
 import pandas as pd
 
 mps = pd.read_csv('data/mps.csv')
